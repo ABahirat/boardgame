@@ -1,6 +1,33 @@
 -Android app that is a barebones version of DnD. 
+	-Grid based generic tabletop RPG
+	-User can create structures i.e choose classes, etc
+	-stretch goal: multiplayer, players use their own phone
+	-DM has own part of application
 -Board game interface for a user to play an RPG DnD-esque game 
 -Take away the details of something like DnD, make it more general
 	-more friendly to people who have never played DnD
 
-
+Use Cases
+----------
++-Normal player and DM player
+	-Each of them have their own interface
++-DM makes session and the room
+-DM has the option of being a player (later)	
++-DM has admin controls in session
++-Players can view their own stats
++	-DM can view all player stats, if he's not a player
+-Players and DM can roll dice, use item.. 
+-Turn order is outside of application
+-Multiplayer capablities
++-Users can create their characetrs
+	-DMs can create enemy character, ability to spwan them whenever
+-Inventory management
+-Capabilities to move around map, Users can move their own pieces, DM can move all 
++-all players and DM have button to view map
+-DM can customize map
+-Combat system
+-Players can attack enemies
+-DM has the ability to create rooms and save them
+-session doesn't need to be saved, DM has stats saved
+-DM has info about game stored such maps, enemy characters, current information about player stats
+	-Players have their inventory and stats saved
